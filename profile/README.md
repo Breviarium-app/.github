@@ -2,6 +2,8 @@
 
 Open Source breviarium project!
 
+> Soon the source code will be released 🚀
+
 Main packages:
 
 ## [Breviarium Core](https://github.com/Breviarium-app/breviarium--core)
