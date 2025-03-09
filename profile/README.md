@@ -1,6 +1,6 @@
 # Breviarium
 
-Open Source breviarium project!
+Open Source breviarium project! See documentation: [breviarium.es](https://breviarium.es/)
 
 > Soon the source code will be released 🚀
 
